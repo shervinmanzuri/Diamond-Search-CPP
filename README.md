@@ -1,7 +1,7 @@
 Diamond Search Block Matching
 =================
 
-Zhu et al.'s [diamond search algorithm][https://ieeexplore.ieee.org/document/821744] for motion vector estimation. Written in C++.
+Zhu et al.'s [diamond search algorithm](https://ieeexplore.ieee.org/document/821744) for motion vector estimation. Written in C++.
 
 
 Requirements
